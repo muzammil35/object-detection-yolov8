@@ -1,2 +1,3 @@
-opencv-python numpy
- yolov8
+opencv-python 
+numpy
+yolov8
